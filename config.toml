@@ -1,0 +1,11 @@
+baseURL = "https://blog.lineleader.io/"
+languageCode = "en-us"
+title = "Line Leader"
+theme="aether"
+paginate = 10
+
+[params]
+brand = "Line Leader"
+description = "Better Disney though planning"
+homeimg = "/images/christmas-castle.jpg"
+bgimg = "/images/magic-kingdom-night.jpg"
