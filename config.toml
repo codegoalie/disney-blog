@@ -1,11 +1,11 @@
 baseURL = "https://blog.lineleader.io/"
 languageCode = "en-us"
-title = "Line Leader"
+title = ""
 theme="aether"
 paginate = 10
 
 [params]
-brand = "Line Leader"
+brand = "Line Leader Blog"
 description = "Better Disney though planning"
 homeimg = "/images/christmas-castle.jpg"
 bgimg = "/images/magic-kingdom-night.jpg"
