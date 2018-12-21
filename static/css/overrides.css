@@ -1,3 +1,7 @@
+body {
+  min-height: 100vh;
+}
+
 a.nav-text {
   color: white;
 }
