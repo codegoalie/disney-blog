@@ -4,8 +4,11 @@ title = ""
 theme="aether"
 paginate = 10
 
+disqusShortname = "lineleader"
+
 [params]
 brand = "Line Leader Blog"
 description = "Better Disney though planning"
 homeimg = "/images/christmas-castle.jpg"
 bgimg = "/images/magic-kingdom-night.jpg"
+
