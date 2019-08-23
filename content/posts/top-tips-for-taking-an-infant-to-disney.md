@@ -105,7 +105,7 @@ to some of the best and unique memories of your trip. Check out this super
 sweet moment between Mickey and Minnie we caught toward the end of our
 Chef Mickey meal.
 
-// Video of Mickey/Minnie at chef Mickey
+<iframe width="100%" height="815" src="https://www.youtube.com/embed/AmhRYBke7L4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 5. Get out of the stroller
 
