@@ -23,6 +23,9 @@ reservations. One cast member we spoke with indicated that this was for the
 capacity regulations set by the fire marshal; each head must be accounted for
 even if they are not eating.
 
+Even though they are too young to actually use it, your little one will still
+get a MagicBand when they are on your hotel reservation. :D
+
 We booked a [Magic Kingdom After-Fireworks Dessert Party][1] for my wife's birthday
 and the online reservation system knew that our little one was young enough not
 to be charged, but still needed to be included on the reservation.
