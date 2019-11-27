@@ -2,8 +2,10 @@
 title: "Magic Kingdom Morning"
 date: 2018-11-23T12:22:12-05:00
 draft: false
-featuredImage: "/images/splash-mtn.jpg"
-categories: ["Plans Of Attack", "Fastpass+ Strategy"]
+image: "/images/splash-mtn.jpg"
+tags: ["Plans Of Attack"]
+categories: ["Fastpass+ Strategy"]
+type: post
 ---
 
 Magic Kingdom is the most popular park at Walt Disney World. In this post,
