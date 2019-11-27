@@ -2,8 +2,10 @@
 title: "Top 6 Tips for Taking an Infant to Disney World"
 date: 2019-05-14T10:49:46-04:00
 draft: false
-featuredImage: "/images/onsie.jpg"
-categories: ["Tips", "Young Kids"]
+image: "/images/onsie.jpg"
+categories: ["Tips"]
+type: featured
+tags: ["Young Kids"]
 ---
 
 After years of adult-only or someone else's child visits, at the beginning of
