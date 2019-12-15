@@ -10,9 +10,17 @@ body {
 p, .paragraph {
   font-weight: 400;
   color: $text-color;
+  font-size: 18px;
+  line-height: 1.7;
+  font-family: $content-font;
+}
+
+.content {
+  font-weight: 400;
+  color: $text-color;
   font-size: 15px;
   line-height: 1.7;
-  font-family: $primary-font;
+  font-family: $content-font;
 }
 
 h1,h2,h3,h4,h5,h6 {

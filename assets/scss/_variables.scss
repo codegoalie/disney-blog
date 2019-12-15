@@ -10,8 +10,10 @@ $white: #fff;
 $gray: #f4fcff;
 
 // Font Variables
-$font: 'Dosis';
-$primary-font: '#{$font}', sans-serif;
+$primary-font-family: 'Dosis';
+$primary-font: '#{$primary-font-family}', sans-serif;
 $icon-font: 'themify';
+$content-font-family: 'Montserrat';
+$content-font: '#{$content-font-family}', sans-serif;
 
-@import url('https://fonts.googleapis.com/css?family=#{$font}:300,400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=#{$primary-font-family}:300,400,500,600,700|#{$content-font-family}:300,400,500,600,700&display=swap');
