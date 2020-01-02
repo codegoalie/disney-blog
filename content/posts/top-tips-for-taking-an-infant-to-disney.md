@@ -4,7 +4,7 @@ date: 2019-05-14T10:49:46-04:00
 draft: false
 image: "/images/onsie.jpg"
 categories: ["Tips"]
-type: featured
+type: post
 tags: ["Young Kids"]
 ---
 

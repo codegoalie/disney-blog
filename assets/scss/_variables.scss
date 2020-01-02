@@ -1,0 +1,19 @@
+// Color Variables
+$primary-color: red;
+$text-color: #666666;
+$text-color-dark: #222222;
+$text-color-light: #959595;
+$body-color: #fff;
+$border-color: #ACB9C4;
+$black: #000;
+$white: #fff;
+$gray: #f4fcff;
+
+// Font Variables
+$primary-font-family: 'Dosis';
+$primary-font: '#{$primary-font-family}', sans-serif;
+$icon-font: 'themify';
+$content-font-family: 'Montserrat';
+$content-font: '#{$content-font-family}', sans-serif;
+
+@import url('https://fonts.googleapis.com/css?family=#{$primary-font-family}:300,400,500,600,700|#{$content-font-family}:300,400,500,600,700&display=swap');
