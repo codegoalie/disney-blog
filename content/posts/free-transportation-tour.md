@@ -2,6 +2,7 @@
 title: "Free Transportation Tour"
 date: 2019-12-15T13:55:37-05:00
 image: "/images/transportation-tour/monorail.jpeg"
+imageAlt: "View of Magic Kingdom, Polynesian, and the Monorail"
 tags: ["Free", "Off-day", "Plans of attack"]
 categories: ["Transportation tour"]
 type: featured

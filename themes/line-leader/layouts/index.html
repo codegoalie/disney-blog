@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+{{ range first 1 (where .Site.Pages "Type" "featured") }}
+  {{ partial "post_summary.html" . }}
+{{ end }}
+
+{{ range first 10 (where .Site.Pages "Type" "post") }}
+  {{ partial "post_summary.html" . }}
+{{ end }}
+
+{{ end }}

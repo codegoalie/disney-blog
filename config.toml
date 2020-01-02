@@ -4,4 +4,9 @@ theme="line-leader"
 title = "LineLeader - Better Disney though planning"
 
 disqusShortname = "lineleader"
+copyright = "Copyright LineLeader All Rights Reserved"
 
+[author]
+    name = "Chris Marshall"
+
+paginate = 5 # Number of posts to show before paginating

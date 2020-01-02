@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ $baseUrl := .Site.BaseURL }}
+<section class="section">
+<div class="container">
+  <div class="container">
+    <div class="heading">
+        <h1 class="title is-2">
+      <a href="{{ .Permalink }}/index.html" rel="bookmark">
+          {{ .Title }}
+      </a>
+        </h1>
+      <h2 class="subtitle">{{ .Date.Format "January 2, 2006" }}</h2>
+    </div>
+<div class="columns">
+  <div class="column is-10">
+    <div class="content">
+      <p class="categories">
+        {{ range .Params.categories }}
+          <a href="{{ $baseUrl }}/categories/{{ lower . | urlize }}/index.html" rel="category">{{ . }}</a>
+        {{ end }}
+      </p>
+      <figure>
+        <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
+      </figure>
+      <p>{{ .Content }}</p>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</section>
+{{ end }}
