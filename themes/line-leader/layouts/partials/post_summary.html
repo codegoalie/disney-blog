@@ -3,12 +3,12 @@
 <section class="section">
   <div class="container">
     <div class="heading">
-      <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
-      <h1 class="title">
-        <a href="{{ .Permalink }}/index.html" rel="bookmark">
+      <a href="{{ .Permalink }}/index.html" rel="bookmark">
+        <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
+        <h1 class="title">
           {{ .Title }}
-        </a>
-      </h1>
+        </h1>
+      </a>
       <h2 class="subtitle">
         {{ .Date.Format "January 2, 2006" }}
       </h2>
