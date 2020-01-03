@@ -1,0 +1,72 @@
+{{ define "main" }}
+
+<section class="hero is-fullheight homepage-hero is-dark">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-half">
+          <h1 class="title">
+            Line Leader
+          </h1>
+          <h2 class="subtitle">
+            Plan like a pro and have more fun
+          </h2>
+          <a class="button is-light is-primary is-large" href="#posts">Read our blog</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<a name="posts"></a>
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-two-thirds">
+        {{ range first 1 (where .Site.Pages "Type" "featured") }}
+          {{ partial "featured_summary.html" . }}
+        {{ end }}
+        <div class="tile is_ancestor">
+          <div class="tile is_parent">
+            {{ range first 10 (where .Site.Pages "Type" "post") }}
+              {{ partial "post_summary.html" . }}
+            {{ end }}
+          </div>
+        </div>
+      </div>
+
+      <div class="column is-one-third">
+        <div class="card">
+          <div class="card-image">
+            <figure class="image is-4x3">
+              <img src="/images/author.jpg" alt="Me with Donald">
+            </figure>
+          </div>
+          <div class="card-content">
+            <div class="media">
+              <div class="media-left">
+                <figure class="image is-48x48">
+                  <img src="/images/peoplemover.jpg" alt="Me">
+                </figure>
+              </div>
+              <div class="media-content">
+                <p class="title is-4">Chris Marshall</p>
+                <p class="subtitle is-6">Founder</p>
+              </div>
+            </div>
+
+            <div class="content">
+              A sortware developer by day and
+              Disney World fanatic by night (and day too!), Chris has a unique
+              opportunity to build fun and exciting tools for other Disney World
+              goers that let you discover, plan, and experience your vacations better
+              than with Disney products alone.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

@@ -2,13 +2,18 @@
 title: "Free Transportation Tour"
 date: 2019-12-15T13:55:37-05:00
 image: "/images/transportation-tour/monorail.jpeg"
+imageAlt: "View of Magic Kingdom, Polynesian, and the Monorail"
 tags: ["Free", "Off-day", "Plans of attack"]
 categories: ["Transportation tour"]
 type: featured
+author: "Chris Marshall"
 ---
 
 A fun activity on a day off from the parks is to ride all the modes of
-transportation Disney offers. Best of all, these are all free!
+transportation Disney offers. Best of all, these are all free! Here are
+some of my favorite routes.
+
+<!--more-->
 
 How you do this ultimately depends on where you are. If you're staying in a
 Disney resort, you can start right in your hotel. If you're staying off
