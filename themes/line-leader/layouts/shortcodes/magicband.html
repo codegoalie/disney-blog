@@ -1,0 +1,18 @@
+<div class="magicband">
+  <h1>{{ .Get "name" }}</h1>
+  <dl>
+    <dt>Special Pre-Order Price: </dt>
+    <dd>{{ .Get "price" }}<dd>
+
+    <dt>Comparable Value:</dt>
+    <dd>{{ .Get "value" }}<dd>
+
+    <figure>
+      <img src="{{ .Get "src" }}" alt="{{ .Get "title" }}">
+      <figcaption>
+        {{ .Get "title" }}
+      </figcaption>
+    </figure>
+  </dl>
+</div>
+<hr />
