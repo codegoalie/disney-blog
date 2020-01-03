@@ -1,6 +1,11 @@
 +++
+title = "{{ replace .Name "-" " " | title }}"
 description = ""
-draft = true
+date = {{ .Date }}
 categories = [""]
 tags = ["", ""]
+draft = true
+type = "post"
+image = ""
+author = "Chris Marshall"
 +++

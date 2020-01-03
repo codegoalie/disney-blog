@@ -5,7 +5,7 @@ image: "/images/transportation-tour/monorail.jpeg"
 imageAlt: "View of Magic Kingdom, Polynesian, and the Monorail"
 tags: ["Free", "Off-day", "Plans of attack"]
 categories: ["Transportation tour"]
-type: featured
+type: post
 author: "Chris Marshall"
 ---
 
