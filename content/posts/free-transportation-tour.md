@@ -10,7 +10,10 @@ author: "Chris Marshall"
 ---
 
 A fun activity on a day off from the parks is to ride all the modes of
-transportation Disney offers. Best of all, these are all free!
+transportation Disney offers. Best of all, these are all free! Here are
+some of my favorite routes.
+
+<!--more-->
 
 How you do this ultimately depends on where you are. If you're staying in a
 Disney resort, you can start right in your hotel. If you're staying off

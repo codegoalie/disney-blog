@@ -11,7 +11,7 @@ author: "Chris Marshall"
 
 After years of adult-only or someone else's child visits, at the beginning of
 May this year, my wife and I visited Disney with our own child for the first
-time. She was 7 months old during our visit. We weren't sure what to expect
+time. <!--more-->She was 7 months old during our visit. We weren't sure what to expect
 but had an amazing time! Seeing the parks we love through her (albeit very
 small) eyes was incredible.
 
