@@ -23,12 +23,22 @@
   <div class="container">
     <div class="columns">
       <div class="column is-two-thirds">
-        {{ range first 1 (where .Site.Pages "Type" "featured") }}
+        {{ range first 1 (where .Site.Pages "Type" "post") }}
           {{ partial "featured_summary.html" . }}
         {{ end }}
-        <div class="tile is_ancestor">
+        <div class="tile is_ancestor is-vertical">
           <div class="tile is_parent">
-            {{ range first 10 (where .Site.Pages "Type" "post") }}
+            {{ range first 2 (after 1 (where .Site.Pages "Type" "post")) }}
+              {{ partial "post_summary.html" . }}
+            {{ end }}
+          </div>
+          <div class="tile is_parent">
+            {{ range first 2 (after 3 (where .Site.Pages "Type" "post")) }}
+              {{ partial "post_summary.html" . }}
+            {{ end }}
+          </div>
+          <div class="tile is_parent">
+            {{ range first 2 (after 5 (where .Site.Pages "Type" "post")) }}
               {{ partial "post_summary.html" . }}
             {{ end }}
           </div>
