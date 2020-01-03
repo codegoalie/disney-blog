@@ -10,6 +10,10 @@ image = "/images/magicbands/2020.png"
 author = "Chris Marshall"
 +++
 
+__UPDATE (Jan 3, 2020 4:03pm):__ And just like that, they are all gone again...
+Hopefully, you got your order in time. Let us know in the comments if you did
+and they honor the order. Stay tuned for more updates!
+
 They've just added a bunch of "new" MagicBands to the resort pre-arrival catalog.
 Grab your favorite now before they disappear.
 
