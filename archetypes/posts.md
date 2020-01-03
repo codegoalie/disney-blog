@@ -5,4 +5,7 @@ date = {{ .Date }}
 categories = [""]
 tags = ["", ""]
 draft = true
+type = "post"
+image = ""
+author = "Chris Marshall"
 +++
