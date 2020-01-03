@@ -6,6 +6,7 @@ imageAlt: "View of Magic Kingdom, Polynesian, and the Monorail"
 tags: ["Free", "Off-day", "Plans of attack"]
 categories: ["Transportation tour"]
 type: featured
+author: "Chris Marshall"
 ---
 
 A fun activity on a day off from the parks is to ride all the modes of

@@ -6,6 +6,7 @@ image: "/images/splash-mtn.jpg"
 tags: ["Plans Of Attack"]
 categories: ["Fastpass+ Strategy"]
 type: post
+author: "Chris Marshall"
 ---
 
 Magic Kingdom is the most popular park at Walt Disney World. In this post,

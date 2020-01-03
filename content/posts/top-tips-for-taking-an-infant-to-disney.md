@@ -6,6 +6,7 @@ image: "/images/onsie.jpg"
 categories: ["Tips"]
 type: post
 tags: ["Young Kids"]
+author: "Chris Marshall"
 ---
 
 After years of adult-only or someone else's child visits, at the beginning of
