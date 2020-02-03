@@ -26,3 +26,48 @@
     height: 250px;
   }
 }
+
+.post-summary, .featured-summary {
+  a {
+    img, .title {
+      transition: all 0.25s ease-in-out;
+    }
+
+    img {
+      max-height: 350px;
+    }
+
+    &:hover {
+      .title {
+        color: $primary;
+      }
+
+      img {
+        box-shadow: 0 .5em 1em -.125em rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.02)
+      }
+    }
+
+    img {
+      border-radius: 5px;
+    }
+  }
+}
+
+.content {
+  figure {
+    figcaption {
+      h4 {
+        font-weight: normal;
+        margin-bottom: 0;
+        font-size: 1rem;
+        font-style: normal;
+      }
+
+      p {
+        font-size: 0.8rem;
+        font-weight: normal;
+        font-style: italic;
+      }
+    }
+  }
+}
