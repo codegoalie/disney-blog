@@ -1,7 +1,7 @@
 {{ $baseUrl := .Site.BaseURL }}
-<div class="container">
+<div class="container featured-summary">
   <div class="heading">
-    <a href="{{ .Permalink }}/index.html" rel="bookmark">
+    <a href="{{ .Permalink }}" rel="bookmark">
       <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
       <h1 class="title">
         {{ .Title }}
@@ -12,9 +12,11 @@
     </h2>
   </div>
   <p class="summary">{{ .Summary }}</p>
-  <p class="categories">
+  <div class="categories tags">
     {{ range .Params.categories }}
-      <a href="{{ $baseUrl }}/categories/{{ lower . | urlize }}/index.html" rel="category">{{ . }}</a>
+      <span class="tag">
+        <a href="{{ $baseUrl }}/categories/{{ lower . | urlize }}" rel="category">{{ . }}</a>
+      </span>
     {{ end }}
-  </p>
+  </div>
 </div>
