@@ -20,5 +20,6 @@ to create these calculations: the lifetime total cost of DVC ownership based on
 historical trends.
 
 That's a mouthful. In plain english, this is the total amount you'll spend from when
-you sign your contract until it expires. What you'll find are some large numbers 
+you sign your contract until it expires. What you'll find are some large numbers, but
+I was also surprised at the impact dues have. 
 
