@@ -19,7 +19,30 @@ until we actually bought. Still after all of that, I didn't come across or think
 to create these calculations: the lifetime total cost of DVC ownership based on
 historical trends.
 
-That's a mouthful. In plain english, this is the total amount you'll spend from when
-you sign your contract until it expires. What you'll find are some large numbers, but
-I was also surprised at the impact dues have. 
+That's a mouthful. In plain english, this is the total amount you'll spend from
+when you sign your contract until it expires. What you'll find are some large
+numbers. But keep in mind a contract spans across decades. Buying into Riveria
+today will let you enjoy DVC membership for the next 50 years.
 
+There's a really hard comparison problem when shopping for DVC. There is no
+such thing as an apples to apples. If you don't have DVC, you (pretty much)
+are staying in a hotel room. With DVC, you have you selection of room types.
+Even a night's stay in a studio DVC room is not _really_ comparable to the
+hotel rooms. You could get a, for instance, compare DVC to a 2 bedrrom rental
+off property. But then you'd have to quantify off vs on property. Oh then
+there's "cash rates" for DVC. But c'mon, are we really going to pay over $400
+a night for a studio at Olk Key West?
+
+So, if the question to answer is how much money will be save by getting DVC,
+well... that depends. Personally, if we didn't buy DVC, we'd stay on property
+at a resort. Most likely a deluxe resort until our kids are old enough to go
+open to close and then we'd just use the room to sleep, etc.
+
+I did (those calculations too)[1].
+
+The answer is yes, for pretty much everyone, you will save money with DVC. But
+that's not really a surprise now is it?
+
+
+
+[1]: // link to original DVC compare sheet
