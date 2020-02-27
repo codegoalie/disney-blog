@@ -7,11 +7,11 @@
         {{ .Title }}
       </h1>
     </a>
-    <h2 class="subtitle">
-      {{ .Date.Format "January 2, 2006" }}
-    </h2>
   </div>
   <p class="summary">{{ .Summary }}</p>
+  <h2 class="subtitle">
+    {{ .Date.Format "January 2, 2006" }}
+  </h2>
   <div class="categories tags">
     {{ range .Params.categories }}
       <span class="tag">

@@ -23,24 +23,36 @@
   <div class="container">
     <div class="columns">
       <div class="column is-two-thirds">
-        {{ range first 1 (where .Site.Pages "Type" "post") }}
-          {{ partial "featured_summary.html" . }}
-        {{ end }}
-        <div class="tile is_ancestor is-vertical">
-          <div class="tile is_parent">
-            {{ range first 2 (after 1 (where .Site.Pages "Type" "post")) }}
-              {{ partial "post_summary.html" . }}
-            {{ end }}
+        {{ $posts := first 5 (where .Site.Pages "Type" "post") }}
+        <div class="tile is-ancestor tile is-vertical">
+          <div class="tile is-parent">
+            <div class="time is-child">
+              {{ partial "featured_summary.html" (index $posts 0) }}
+            </div>
           </div>
-          <div class="tile is_parent">
-            {{ range first 2 (after 3 (where .Site.Pages "Type" "post")) }}
-              {{ partial "post_summary.html" . }}
-            {{ end }}
+        </div>
+        <div class="tile">
+          <div class="tile is-parent">
+            <div class="tile is-child">
+              {{ partial "post_summary.html" (index $posts 1) }}
+            </div>
           </div>
-          <div class="tile is_parent">
-            {{ range first 2 (after 5 (where .Site.Pages "Type" "post")) }}
-              {{ partial "post_summary.html" . }}
-            {{ end }}
+          <div class="tile is-parent">
+            <div class="tile is-child">
+              {{ partial "post_summary.html" (index $posts 2) }}
+            </div>
+          </div>
+        </div>
+        <div class="tile">
+          <div class="tile is-parent">
+            <div class="tile is-child">
+              {{ partial "post_summary.html" (index $posts 3) }}
+            </div>
+          </div>
+          <div class="tile is-parent">
+            <div class="tile is-child">
+              {{ partial "post_summary.html" (index $posts 4) }}
+            </div>
           </div>
         </div>
       </div>
