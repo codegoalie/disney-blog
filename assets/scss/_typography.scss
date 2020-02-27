@@ -1,7 +1,6 @@
 /*  typography */
 body {
   line-height: 1.2;
-  font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: $text-color;
@@ -21,6 +20,16 @@ p, .paragraph {
   font-size: 15px;
   line-height: 1.7;
   font-family: $content-font;
+
+  blockquote {
+    border-left-color: $primary;
+    background-color: transparent;
+
+    p {
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+  }
 }
 
 h1,h2,h3,h4,h5,h6 {

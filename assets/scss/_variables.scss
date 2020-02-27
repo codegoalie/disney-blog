@@ -1,5 +1,8 @@
 // Color Variables
-$primary-color: red;
+$primary: #c0cbff;
+$secondary: #f8b195;
+
+$warning: #eff899;
 $text-color: #666666;
 $text-color-dark: #222222;
 $text-color-light: #959595;
@@ -15,5 +18,7 @@ $primary-font: '#{$primary-font-family}', sans-serif;
 $icon-font: 'themify';
 $content-font-family: 'Montserrat';
 $content-font: '#{$content-font-family}', sans-serif;
+
+$family-primary: $primary-font;
 
 @import url('https://fonts.googleapis.com/css?family=#{$primary-font-family}:300,400,500,600,700|#{$content-font-family}:300,400,500,600,700&display=swap');
