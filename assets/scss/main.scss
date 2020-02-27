@@ -1,3 +1,4 @@
+@import "variables";
 @import "./bulma/utilities/_all.sass";
 @import "./bulma/base/_all.sass";
 @import "./bulma/utilities/_all.sass";
@@ -6,6 +7,13 @@
 @import "./bulma/form/_all.sass";
 @import "./bulma/grid/_all.sass";
 @import "./bulma/layout/_all.sass";
+@import "typography";
+
+@import "themify-icons";
+
+%box-shadow {
+  box-shadow: 0 .5em 1em -.125em rgba(0,0,0,.1),0 0 0 1px rgba(0,0,0,.02);
+}
 
 .homepage-hero {
   background-image: linear-gradient(176deg, rgba(0,0,0,.2), rgba(0,0,0,0.7) 50%), url('/images/poly.png');
@@ -28,6 +36,14 @@
 }
 
 .post-summary, .featured-summary {
+  padding: 1rem;
+  border-radius: 5px;
+  @extend %box-shadow;
+
+  h1 {
+    margin: 2rem 0 1rem;
+  }
+
   a {
     img, .title {
       transition: all 0.25s ease-in-out;
@@ -43,7 +59,7 @@
       }
 
       img {
-        box-shadow: 0 .5em 1em -.125em rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.02)
+        @extend %box-shadow;
       }
     }
 
@@ -51,6 +67,19 @@
       border-radius: 5px;
     }
   }
+
+  .subtitle {
+    margin-top: 1rem;
+    float: right;
+  }
+
+  .categories.tags {
+    margin-top: 1rem;
+  }
+}
+
+.featured-summary {
+  margin-bottom: 3rem;
 }
 
 .content {

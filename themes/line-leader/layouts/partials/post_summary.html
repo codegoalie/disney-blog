@@ -1,6 +1,5 @@
 {{ $baseUrl := .Site.BaseURL }}
-<div class="tile is-child is-6 post-summary">
-<section class="section">
+<section class="section post-summary">
   <div class="container">
     <div class="heading">
       <a href="{{ .Permalink }}" rel="bookmark">
@@ -9,11 +8,11 @@
           {{ .Title }}
         </h1>
       </a>
-      <h2 class="subtitle">
-        {{ .Date.Format "January 2, 2006" }}
-      </h2>
     </div>
     <p class="summary">{{ .Summary }}</p>
+    <h2 class="subtitle">
+      {{ .Date.Format "January 2, 2006" }}
+    </h2>
     <div class="categories tags">
       {{ range .Params.categories }}
         <span class="tag">
@@ -23,4 +22,3 @@
     </div>
   </div>
 </section>
-</div>
