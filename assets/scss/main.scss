@@ -10,7 +10,7 @@
 @import "typography";
 
 %box-shadow {
-  box-shadow: 0 .5em 1em -.125em rgba(darken($primary, 10%),.2),0 -1rem 0 5px rgba(darken($primary, 10%),.02);
+  box-shadow: 0 .5em 1em -.125em rgba(0,0,0,.1),0 0 0 1px rgba(0,0,0,.02);
 }
 
 .homepage-hero {
