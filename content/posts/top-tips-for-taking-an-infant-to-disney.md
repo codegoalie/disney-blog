@@ -111,11 +111,11 @@ to some of the best and unique memories of your trip. Check out this super
 sweet moment between Mickey and Minnie we caught toward the end of our
 Chef Mickey meal.
 
-<iframe width="100%" height="815" src="https://www.youtube.com/embed/AmhRYBke7L4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube AmhRYBke7L4 >}}
 
 # 5. Get out of the stroller
 
-In the hot Florida sun, tt can be tempting to keep your little heat generator
+In the hot Florida sun, it can be tempting to keep your little heat generator
 out of your arms and in their stroller; cooler for everyone. However, we got
 ours out of her stroller as much as possible when we weren't on the move. This
 allowed us to have some truly one-of-a-kind moments with characters and cast
@@ -138,12 +138,13 @@ another level.
 # 6. Dress to impress
 
 The matching t-shirts is a staple at Disney. While planning our first trip with
-the little one, I thought my wife might have been going a little overboard
-on outfits. Matching shirts for the plane ride down, matching shirts for
-Animal Kingdom, polka dot bathing suit for the off day, and coordinating
-outfits for Magic Kingdom. However, I couldn't have been more wrong. People,
-including cast members, were stopping us throughout the trip commenting on
-our outfits and dress.
+the little one, our exictement and eagerness led us to go all out. At one point,
+I was tempted to think we might be going a little overboard on outfits.
+Matching shirts for the plane ride down, matching shirts for Animal Kingdom,
+polka dot bathing suit for the off day, and coordinating outfits for Magic
+Kingdom. However, I couldn't have been more wrong. People, including cast
+members, were stopping us throughout the trip commenting on our outfits and
+dress.
 
 Having a conversation-starting ensamble can be the difference between a
 friendly good morning wave with a cast member and a day-making interaction.
