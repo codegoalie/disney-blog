@@ -138,13 +138,12 @@ another level.
 # 6. Dress to impress
 
 The matching t-shirt is a staple at Disney. While planning our first trip with
-the little one, our excitement and eagerness led us to go all out. At one point,
-I was tempted to think we might be going a little overboard on outfits.
-Matching shirts for the plane ride down, matching shirts for Animal Kingdom,
+the little one, our excitement and eagerness led us to go all out. Matching
+shirts for the plane ride down, matching shirts for Animal Kingdom,
 polka dot bathing suit for the off day, and coordinating outfits for Magic
-Kingdom. However, I couldn't have been more wrong. People, including cast
-members, were stopping us throughout the trip commenting on our outfits and
-dress.
+Kingdom. Even I was tempted to think we might be overdoing it. However, I
+couldn't have been more wrong. People, including cast members, were stopping us
+throughout the trip commenting on our outfits and dress.
 
 Having a conversation-starting ensemble can be the difference between a
 friendly good morning wave with a cast member and a day-making interaction.
