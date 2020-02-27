@@ -40,31 +40,26 @@
   border-radius: 5px;
   @extend %box-shadow;
 
+  &, & * {
+    transition: all 0.25s ease-in-out;
+  }
+
   h1 {
     margin: 2rem 0 1rem;
   }
 
-  a {
-    img, .title {
-      transition: all 0.25s ease-in-out;
+  img {
+    max-height: 350px;
+    border-radius: 5px;
+  }
+
+  &:hover {
+    .title {
+      color: $primary;
     }
 
     img {
-      max-height: 350px;
-    }
-
-    &:hover {
-      .title {
-        color: $primary;
-      }
-
-      img {
-        @extend %box-shadow;
-      }
-    }
-
-    img {
-      border-radius: 5px;
+      @extend %box-shadow;
     }
   }
 

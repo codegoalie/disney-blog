@@ -1,22 +1,22 @@
 {{ $baseUrl := .Site.BaseURL }}
-<div class="container featured-summary">
-  <div class="heading">
-    <a href="{{ .Permalink }}" rel="bookmark">
+<a href="{{ .Permalink }}" rel="bookmark">
+  <div class="container featured-summary">
+    <div class="heading">
       <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
       <h1 class="title">
         {{ .Title }}
       </h1>
-    </a>
-  </div>
-  <p class="summary">{{ .Summary }}</p>
-  <h2 class="subtitle">
-    {{ .Date.Format "January 2, 2006" }}
-  </h2>
-  <div class="categories tags">
-    {{ range .Params.categories }}
+    </div>
+    <p class="summary">{{ .Summary }}</p>
+    <h2 class="subtitle">
+      {{ .Date.Format "January 2, 2006" }}
+    </h2>
+    <div class="categories tags">
+      {{ range .Params.categories }}
       <span class="tag">
-        <a href="{{ $baseUrl }}/categories/{{ lower . | urlize }}" rel="category">{{ . }}</a>
+        {{ . }}
       </span>
-    {{ end }}
+      {{ end }}
+    </div>
   </div>
-</div>
+</a>
