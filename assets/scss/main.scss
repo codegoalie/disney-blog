@@ -9,6 +9,8 @@
 @import "./bulma/layout/_all.sass";
 @import "typography";
 
+@import "themify-icons";
+
 %box-shadow {
   box-shadow: 0 .5em 1em -.125em rgba(0,0,0,.1),0 0 0 1px rgba(0,0,0,.02);
 }
