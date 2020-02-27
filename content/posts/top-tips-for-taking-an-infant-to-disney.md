@@ -16,7 +16,7 @@ but had an amazing time! Seeing the parks we love through her (albeit very
 small) eyes was incredible.
 
 Despite all the park experience we have together, my wife and I learned new
-things during our recent visit, expectially pertaining to bringing an infant.
+things during our recent visit, especially pertaining to bringing an infant.
 
 # 1. Include the little one on reservations
 
@@ -87,7 +87,7 @@ our fair share of struggling families at Disney; tired tots and overwhelmed
 parents. "We paid $120 each to be here today and we're going to have fun!" I
 used to think that meant riding every ride, using half a dozen FastPasses, and
 filling every second from rope drop to goodnight kiss. Taking our little one
-showed me that there are many ways to experince Disney. It doesn't have to
+showed me that there are many ways to experience Disney. It doesn't have to
 be about how much you do, but who you do it with and taking the time to
 appreciate being in the most magical place on Earth with the people you love.
 
@@ -95,11 +95,11 @@ appreciate being in the most magical place on Earth with the people you love.
 
 Some of my most fond memories of Walt Disney World vacations are times spent in line
 with friends and family. That time spent just hanging out and being together (before
-smartphones were ubiquitus) were some of the most magical. It's tempting to try and
+smartphones were ubiquitous) were some of the most magical. It's tempting to try and
 plan your visit down to the last minute and squeeze every last ounce of fun for your
 (many) bucks. This whole blog (any many others) is dedicated to planning and being
 prepared to make the most of your trip. However, we always encourage you to allow
-for spontenaity and live in the moment. This is espeically true with little ones.
+for spontaneity and live in the moment. This is especially true with little ones.
 
 We were worried about some meet-and-greets because of the potential of a meltdown
 due to the larger than life characters (I'm lookin' at you Goofy ;) ). It turned out
@@ -121,7 +121,7 @@ ours out of her stroller as much as possible when we weren't on the move. This
 allowed us to have some truly one-of-a-kind moments with characters and cast
 members.
 
-![Meeting Jiminy Cricket at the Fesival of Fantasy parade][jiminy]
+![Meeting Jiminy Cricket at the Festival of Fantasy parade][jiminy]
 
 Having an infant at Disney World certainly isn't unique (they have a whole
 center dedicated to babies), but they are on the rare side; and everyone loves
@@ -138,7 +138,7 @@ another level.
 # 6. Dress to impress
 
 The matching t-shirt is a staple at Disney. While planning our first trip with
-the little one, our exictement and eagerness led us to go all out. At one point,
+the little one, our excitement and eagerness led us to go all out. At one point,
 I was tempted to think we might be going a little overboard on outfits.
 Matching shirts for the plane ride down, matching shirts for Animal Kingdom,
 polka dot bathing suit for the off day, and coordinating outfits for Magic
@@ -146,7 +146,7 @@ Kingdom. However, I couldn't have been more wrong. People, including cast
 members, were stopping us throughout the trip commenting on our outfits and
 dress.
 
-Having a conversation-starting ensamble can be the difference between a
+Having a conversation-starting ensemble can be the difference between a
 friendly good morning wave with a cast member and a day-making interaction.
 We first experienced the fun of standing out at Disney on our honeymoon.
 Coming back from Jamaica, we turned a 2 hour layover in Orlando into a two
