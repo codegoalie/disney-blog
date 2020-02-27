@@ -137,7 +137,7 @@ another level.
 
 # 6. Dress to impress
 
-The matching t-shirts is a staple at Disney. While planning our first trip with
+The matching t-shirt is a staple at Disney. While planning our first trip with
 the little one, our exictement and eagerness led us to go all out. At one point,
 I was tempted to think we might be going a little overboard on outfits.
 Matching shirts for the plane ride down, matching shirts for Animal Kingdom,
