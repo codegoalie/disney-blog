@@ -32,11 +32,15 @@ p, .paragraph {
   }
 }
 
-h1,h2,h3,h4,h5,h6 {
+%header-typography {
   color: $text-color-dark;
   font-family: $primary-font;
   font-weight: 700;
   line-height: 1.2;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  @extend %header-typography;
 }
 
 h1, .h1{
