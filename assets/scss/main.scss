@@ -12,13 +12,20 @@
 @import "themify-icons";
 
 %box-shadow {
-  box-shadow: 0 .5em 1em -.125em rgba(0,0,0,.1),0 0 0 1px rgba(0,0,0,.02);
+  box-shadow: 0 0.5em 1em -0.125em rgba(0, 0, 0, 0.1),
+    0 0 0 1px rgba(0, 0, 0, 0.02);
 }
 
 @import "mailerlite-overrides";
+@import "underline-link";
 
 .homepage-hero {
-  background-image: linear-gradient(176deg, rgba(0,0,0,.2), rgba(0,0,0,0.7) 50%), url('/images/poly.png');
+  background-image: linear-gradient(
+      176deg,
+      rgba(0, 0, 0, 0.2),
+      rgba(0, 0, 0, 0.7) 50%
+    ),
+    url("/images/poly.png");
   background-size: cover;
   background-position: center;
 
@@ -26,7 +33,8 @@
     font-size: 5rem;
   }
 
-  .title, .subtitle {
+  .title,
+  .subtitle {
     @extend %box-shadow;
   }
 }
@@ -42,12 +50,14 @@
   }
 }
 
-.post-summary, .featured-summary {
+.post-summary,
+.featured-summary {
   padding: 1rem;
   border-radius: 5px;
   @extend %box-shadow;
 
-  &, & * {
+  &,
+  & * {
     transition: all 0.25s ease-in-out;
   }
 
