@@ -1,6 +1,6 @@
 +++
-title = "The numbers you need to see before buying DVC"
-description = "This spreadsheet shows the real costs and savings of your entire DVC contract"
+title = "How much does DVC actually cost?"
+description = "This spreadsheet shows the full costs and savings of your entire DVC contract"
 date = 2020-02-22T07:02:18-05:00
 categories = ["DVC"]
 tags = ["pricing", ""]
@@ -26,7 +26,7 @@ But keep in mind a contract spans decades. Buying into Riveria today will let
 you enjoy DVC membership for the next 50 years.
 
 I think the main considration for pretty much everyone when considering DVC is:
-__will it save me money?__ 
+__will it save me money?__
 
 The short answer is probably yes. If you plan to go to Disney at least every
 other year for the next 40+ years, you can essentially pre-pay with DVC and
