@@ -54,7 +54,7 @@ property at a resort. Most likely a deluxe resort until our kids are old enough
 to go open-to-close and then maybe we'd just use the room to sleep and would
 go cheaper..., etc.
 
-I did [those calculations too](1).
+I did [those calculations too][1].
 
 The point is: everyone is different.
 
@@ -74,7 +74,7 @@ booking Walt Disney World at 7 months. $8k.
 So, again, how to decide where and how many points?
 
 Deciding the number of points is pretty straightforward. Think of the times
-you have gone (or will go) to Disney. Look up [the points charts](2) for the
+you have gone (or will go) to Disney. Look up [the points charts][2] for the
 resorts you'd like to stay at. Add up the points you'll need for the length
 and time of year. Viola! That's how many points you'll need. If you only
 want to go every other year, cut that number in half.
@@ -94,7 +94,7 @@ trends_ comes into play. Since dues are over half of the cost of DVC, you
 should definitely be paying attention to what those are now and __will be__
 going forward. 
 
-Luckily, [I've already figured this out](3).
+Luckily, [I've already figured this out][3].
 
 The spreadsheet linked above factors in the initial purchase price, the current
 annual dues, and the historical trend of annual dues for each resort and
