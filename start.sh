@@ -2,4 +2,5 @@
 
 set -e
 
-hugo server
+# build drafts
+hugo server -D
