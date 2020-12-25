@@ -72,7 +72,13 @@ DVC themselves do not provide a global search of all reservations. You can only
 search to check-in 11 months from 
 
 DVC has (for whatever
-reason) decided that planning a trip should be 
+reason) decided that planning a trip should b
+
+-------------
+
+Actually booking your stay is a little different than booking a normal hotel reservation. For starters, you can only book at most 11 months I'm advance for your home earlier (and only 7 months for all other resorts). We usually plan our visits years in advance, but with DVC, you can't lock that resort reservation in until your booking window opens.That's ok though! DVC releases point charts 2 years in advance, so you can be prepared when you're booking window opens.
+
+On top of booking windows, how you post for your stay is different too. 
 
 # Step 3: Book it.
 
