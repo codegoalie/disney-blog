@@ -63,10 +63,18 @@ Once you have some dates in mind, it't time to decide _where_ to stay.
 
 So, you've got some dates in mind and you are ready to decide on your home for
 your trip. You might think the hard part is over, but this step is actually
-where most of the actual work takes place and some of the real differences
+where most of the actual work takes place.
+
+ 
+  
+   
+    
+      and some of the real differences
 between DVC and regual resort booking show up. With a typical Walt Disney World
-Resort hotel booking, you go to the site, enter your dates, and see how much it
-will set you back.
+Resort hotel (or any hotel, really) booking, you go to the site, enter your dates, see how much it
+will set you back, and book. Whenever you feel like traveling, there's a reservation for you. It's a bit different with DVC.
+
+First, you can only book at most 11 months in the future for your home resort and 7 months for all other resorts. 
 
 DVC themselves do not provide a global search of all reservations. You can only
 search to check-in 11 months from 
