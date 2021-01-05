@@ -3,12 +3,16 @@ title = "How much does DVC actually cost?"
 description = "This spreadsheet shows the full costs and savings of your entire DVC contract"
 date = 2020-02-22T07:02:18-05:00
 categories = ["DVC"]
-tags = ["pricing", ""]
+tags = ["pricing"]
 draft = false
 type = "post"
 image = "/images/dvc-lifetime-2020/vgf-night.jpeg"
 author = "Chris Marshall"
 +++
+
+Point purchase price is not the entire story of DVC ownership cost.
+
+<!--more-->
 
 First, a little background. We bought into DVC in November 2019. Like most
 everyone who purchases DVC or is
