@@ -2,4 +2,4 @@
 
 set -e
 
-hugo server
+hugo server $@
