@@ -2,7 +2,9 @@
 <a href="{{ .Permalink }}" rel="bookmark">
   <div class="container featured-summary">
     <div class="heading">
+      {{ if .Params.Image }}
       <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
+      {{ end }}
       <h1 class="title">
         {{ .Title }}
       </h1>
