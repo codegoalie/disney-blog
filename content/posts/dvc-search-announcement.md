@@ -1,5 +1,5 @@
 +++
-title = "Introducing DVC Reverse Search"
+title = "Introducing DVC Reverse Points Search"
 description = "Find potential upgrades using your existing points"
 date = 2021-01-05T05:59:07-05:00
 categories = ["DVC"]
