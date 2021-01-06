@@ -19,9 +19,11 @@
             <a href="{{ $baseUrl }}/categories/{{ lower . | urlize }}/index.html" rel="category">{{ . }}</a>
             {{ end }}
             </p>
+            {{ if .Params.Image }}
             <figure>
               <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
             </figure>
+            {{ end }}
             <p>{{ .Content }}</p>
             <p><i>- {{ .Params.Author }}</i></p>
           </div>

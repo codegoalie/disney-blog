@@ -3,7 +3,9 @@
   <section class="section post-summary">
     <div class="container">
       <div class="heading">
+        {{ if .Params.Image }}
         <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" />
+        {{ end }}
         <h1 class="title">
           {{ .Title }}
         </h1>

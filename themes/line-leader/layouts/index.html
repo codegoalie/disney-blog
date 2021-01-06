@@ -23,7 +23,7 @@
     <div class="columns">
       <div class="column is-two-thirds">
         {{ $posts := first 5 (where .Site.Pages "Type" "post") }}
-        <div class="tile is-ancestor tile is-vertical">
+        <div class="tile is-ancestor tile is-vertical" style="margin-left: 0; margin-right: 0;">
           <div class="tile is-parent">
             <div class="time is-child">
               {{ partial "featured_summary.html" (index $posts 0) }}
