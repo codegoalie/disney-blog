@@ -8,9 +8,9 @@
 <div class="columns">
   <div class="column is-half">
 <div class="tile is-ancestor">
-  <div class="tile is-parent">
-{{ range .Pages.ByPublishDate }}
-  {{ partial "post_summary.html" . }}
+  <div class="tile is-parent is-vertical">
+{{ range .Pages.ByPublishDate.Reverse }}
+  {{ partial "archive_summary.html" . }}
 {{ end }}
   </div>
 </div>

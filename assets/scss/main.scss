@@ -51,7 +51,8 @@
 }
 
 .post-summary,
-.featured-summary {
+.featured-summary,
+.archive-summary {
   padding: 1rem;
   border-radius: 5px;
   @extend %box-shadow;
@@ -95,6 +96,44 @@
 
 .featured-summary {
   margin-bottom: 3rem;
+}
+
+.archive-summary {
+  box-shadow: none;
+  border: 1px solid hsla(0, 0, 50%, 0.5);
+  background-color: hsl(230, 100%, 98%);
+
+  &:not(first-child) {
+    margin-top: 1rem;
+  }
+
+  &:hover {
+    border: 1px solid hsla(0, 0, 50%, 1);
+    @extend %box-shadow;
+    background-color: hsl(230, 100%, 99%);
+  }
+
+  .heading {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .heading h1 {
+    margin-bottom: 0;
+  }
+
+  .heading img {
+    max-height: 75px;
+    margin-right: 1rem;
+    margin-bottom: 0;
+  }
+
+  .summary {
+    p {
+    line-height: 1.25rem;
+    }
+  }
 }
 
 .content {
