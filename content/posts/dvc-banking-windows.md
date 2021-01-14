@@ -5,7 +5,7 @@ date = 2021-01-11T14:50:22-05:00
 categories = ["DVC"]
 tags = ["informational"]
 draft = false
-type = "post"
+type = "page"
 image = ""
 author = "Chris M"
 +++
