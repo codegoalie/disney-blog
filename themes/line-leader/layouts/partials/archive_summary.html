@@ -1,0 +1,26 @@
+{{ $baseUrl := .Site.BaseURL }}
+<a href="{{ .Permalink }}" rel="bookmark">
+  <section class="section archive-summary">
+    <div class="container">
+      <div class="heading">
+        {{ if .Params.Image }}
+        <img src="{{ .Params.Image }}" alt="{{ .Params.ImageAlt }}" style="max-height: 75px;" />
+        {{ end }}
+        <h1 class="title">
+          {{ .Title }}
+        </h1>
+      </div>
+      <div class="summary">{{ .Summary }}</div>
+      <h2 class="subtitle">
+        {{ .Date.Format "January 2, 2006" }}
+      </h2>
+      <div class="categories tags">
+        {{ range .Params.categories }}
+        <span class="tag">
+          {{ . }}
+        </span>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+</a>
