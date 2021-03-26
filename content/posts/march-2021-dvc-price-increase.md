@@ -6,7 +6,7 @@ categories = ["DVC", "Pricing"]
 tags = ["", ""]
 draft = false
 type = "post"
-image = "/images/march-2021-dvc-price/hilton-head.png"
+image = "/images/march-2021-dvc-price/copper-creek.png"
 author = "Chris M"
 +++
 
@@ -18,6 +18,8 @@ Creek, Hilton Head, and Vero Beach.
 Copper Creek Villas and Cabins at Disney's Wilderness Lodge has just had an
 __increase in price by $5__ up to __$225 per point__. It's been about a year
 since a price increase here.
+
+![Screenshot of Hilton Head price card](/images/march-2021-dvc-price/hilton-head.png)
 
 Addtionally, Disney's Hilton Head Island Resort has just had their pricing __increase by
 $5__ as well up to __$140 per point__. It's been at least a year since Disney
