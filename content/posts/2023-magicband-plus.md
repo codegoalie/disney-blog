@@ -22,6 +22,9 @@ fireworks on the other. It's hard to see much else from the one image available.
 
 This style matches the rest of [the Disney Parks 2023 collection][1].
 
+Want more MagicBands? Check out our [full list of currently available resort
+pre-arrival MagicBands][2].
+
 If more information becomes available, we'll let you know.
 
 Let us know if you pick this MagicBand+ up and can share more pictures.
@@ -29,3 +32,4 @@ Let us know if you pick this MagicBand+ up and can share more pictures.
 Have a Magical Day!
 
 [1]: https://www.shopdisney.com/collections/disney-parks-dated-collection/
+[2]: https://lineleader.io/magicbands
